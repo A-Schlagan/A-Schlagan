@@ -22,9 +22,9 @@
 📍 Germany  
 
 - 🎓 Currently training as an **Application Developer**
-- 🛠️ Learning by building real-world projects
+- 🛠️ Learning by building real-world applications
 - 🧠 Clean, readable & maintainable code
-- 📚 Always curious about new technologies
+- 📚 Curious about modern technologies & best practices
 
 ---
 
@@ -53,4 +53,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![VS Code](https://img.)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Schlagan/A-Schlagan/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/A-Schlagan/A-Schlagan/output/snake.svg" alt="GitHub contribution snake animation" />
+</picture>
+
+---
+
+⭐ Thanks for stopping by!
