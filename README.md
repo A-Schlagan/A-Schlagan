@@ -49,8 +49,8 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Schlagan/A-Schlagan/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/A-Schlagan/A-Schlagan/output/snake.svg" alt="GitHub contribution snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Schlagan/A-Schlagan/main/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/A-Schlagan/A-Schlagan/main/snake.svg" alt="GitHub contribution snake animation" />
 </picture>
 
 ---
