@@ -1,17 +1,30 @@
-# 👋 Hi, I'm Alex
-
-🚀 Aspiring **Software Developer (Application Development)**  
-💻 Passionate about Web & Backend Development  
-📍 Germany  
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com
+      ?font=Fira+Code
+      &size=36
+      &pause=1000
+      &color=000000
+      &center=true
+      &vCenter=true
+      &width=700
+      &lines=Hi%2C+I'm+Alex;Aspiring+Software+Developer;Application+Development;Welcome+to+my+GitHub!"
+    alt="Typing Header"
+  />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-- 🎓 Currently training as a **Software / Application Developer**
+🚀 Aspiring **Software Developer (Application Development)**  
+💻 Focus on Web & Backend Development  
+📍 Germany  
+
+- 🎓 Currently training as an **Application Developer**
 - 🛠️ Learning by building real-world projects
-- 🧠 Strong focus on **clean, readable, and maintainable code**
-- 📚 Curious about modern technologies and best practices
+- 🧠 Clean, readable & maintainable code
+- 📚 Always curious about new technologies
 
 ---
 
@@ -40,16 +53,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
-
-## 🐍 Contribution Snake
-
-<img 
-  src="https://raw.githubusercontent.com/A-Schlagan/A-Schlagan/output/snake.svg"
-  alt="GitHub contribution snake animation"
-/>
-
----
-
-⭐ **Thanks for stopping by!**  
-Feedback, collaboration, and new ideas are always welcome.
+![VS Code](https://img.)
