@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false   
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -20,10 +28,14 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Push snake to output branch
+        run: |
+          git fetch origin output || git checkout --orphan output
+          git checkout output || git checkout -b output
+          git rm -rf .
+          cp -r dist/* .
+          git add .
+          git commit -m "Update Snake animation" || echo "No changes to commit"
+          git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
