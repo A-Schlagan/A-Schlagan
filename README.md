@@ -42,6 +42,12 @@
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
 
+## 🐍 Contribution Snake
+
+<img 
+  src="https://raw.githubusercontent.com/A-Schlagan/A-Schlagan/output/snake.svg"
+  alt="GitHub contribution snake animation"
+/>
 
 ---
 
