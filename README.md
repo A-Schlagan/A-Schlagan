@@ -10,22 +10,22 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 🚀 Aspiring **Software Developer (Application Development)**  
 💻 Focus on Web & Backend Development  
 📍 Germany  
 
-- 🎓 Currently training as an **Application Developer**
-- 🛠️ Learning by building real-world applications
-- 🧠 Clean, readable & maintainable code
-- 📚 Curious about modern technologies & best practices
+-  Currently training as an **Application Developer**
+-  Learning by building real-world applications
+-  Clean, readable & maintainable code
+-  Curious about modern technologies & best practices
 
 ---
 
 ## 🔧 Technologies & Tools
 
-### 🧱 Languages
+###  Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
@@ -33,17 +33,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
-### ⚙️ Frameworks & Libraries
+###  Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-### 🗄️ Databases
+###  Databases
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-### 🧰 Tools
+###  Tools
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
@@ -52,4 +52,4 @@
 
 ---
 
-⭐ Thanks for stopping by!
+ Thanks for stopping by!
